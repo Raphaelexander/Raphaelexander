@@ -16,6 +16,6 @@ While I continue my education, I continuously start and update projects to deepe
 
 In the future I look forward to create more complex programs as well as designing and maintaining network hardware
 
-To view my resume, please head to this repository: https://github.com/Raphaelexander/Portfolio
+To view my resume, please head to this repository: https://github.com/Raphaelexander/Resume
 
 I look forward to connecting with you
